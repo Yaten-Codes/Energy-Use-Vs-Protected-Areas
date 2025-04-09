@@ -8,7 +8,7 @@ The notebook explores how energy usage correlates with the size and distribution
 
 ## Features
 
-- **Data Collection**: Gathers data on energy consumption and protected area statistics from reputable sources.
+- **Data Collection**: Gathers data on energy consumption and protected area statistics from World Development Indicators Dataset.
 - **Data Cleaning and Preprocessing**: Handles missing values, normalizes data, and prepares it for analysis.
 - **Exploratory Data Analysis (EDA)**: Visualizes data distributions and relationships between variables.
 - **Statistical Analysis**: Applies statistical methods to assess correlations and significance.
