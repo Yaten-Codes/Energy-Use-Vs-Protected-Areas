@@ -1,4 +1,4 @@
-##**Analyzing Correlation Between Energy Using Vs Protected Areas**
+## **Analyzing Correlation Between Energy Using Vs Protected Areas**
 
 This repository contains the `Energy_Use.ipynb` Jupyter Notebook, which analyzes the relationship between energy consumption and the extent of protected areas across various regions.
 
